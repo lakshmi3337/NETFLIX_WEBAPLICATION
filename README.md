@@ -1,3 +1,3 @@
 # NETFLIX_WEBAPLICATION
 NETFLIX
-AUthor-Venkatalakshmi
+Author-Venkatalakshmi
